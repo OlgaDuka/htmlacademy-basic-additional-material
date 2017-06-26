@@ -42,3 +42,5 @@
 [Инструменты ускорения вёрстки](/sections-adaptive/section-9.md)
 
 [FAQ](/sections-adaptive/section-faq.md).
+
+Репозиторий взят у Сергея Попова, вот здесь: https://github.com/tsergeytovarov/htmlacademy-basic-additional-material
